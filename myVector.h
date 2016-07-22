@@ -2,8 +2,8 @@
 // Created by Vaggelis on 21-Jul-16.
 //
 
-#ifndef UTF_S_MYVECTOR_H
-#define UTF_S_MYVECTOR_H
+#ifndef MYVECTOR_H
+#define MYVECTOR_H
 
 #include <cstring>
 
@@ -80,4 +80,4 @@ private:
     int Vcapacity;
 };
 
-#endif //UTF_S_MYVECTOR_H
+#endif //MYVECTOR_H
